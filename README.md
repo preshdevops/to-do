@@ -15,7 +15,7 @@ A minimal, web-based to-do list application to manage tasks simply and efficient
 ---
 
 ## 🛠 Tech Stack
-
+- React.js
 - HTML5  
 - CSS3  
 - JavaScript (ES6)  
