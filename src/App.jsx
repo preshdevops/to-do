@@ -4,7 +4,7 @@ function App(){
 
   return (
     <div>
-       <h1>Preshy To-Do</h1>
+       <h1></h1>
        <ToDolist />
   </div>)
 }
